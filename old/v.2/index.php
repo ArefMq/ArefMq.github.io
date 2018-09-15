@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 
-<!-- Designed by My friend, Novin Shahroudi -->
 <html lang="en-US">
 	<head>
 		<meta charset="UTF-8">
