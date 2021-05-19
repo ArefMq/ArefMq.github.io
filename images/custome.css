@@ -1,0 +1,41 @@
+.home-heading {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 4rem;
+  line-height: 4.5rem;
+  font-weight: 700;
+  font-family: Lato,sans-serif;
+}
+
+.image {
+  max-width: 200px;
+  float: right;
+  border-radius: 150px;
+  box-shadow: none;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-family: 'PT Serif',serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  font-weight: 400;
+}
+
+body{
+  color: #333;
+}
+
+.center-dflex {
+  width: 60%;
+}
+
+.decorated-nav-item {
+  font-family: 'Open Sans',sans-serif;
+  color: #00b6fe;
+  font-size: .85rem;
+  line-height: 1rem;
+  max-width: 940px;
+  text-transform: uppercase;
+}
