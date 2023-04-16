@@ -1,10 +1,26 @@
+@font-face {
+  font-family: "theHeaderFont";
+  src: url("/images/Secular_One/SecularOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "theBodyFont";
+  src: url("/images/Crimson_Text/CrimsonText-Regular.ttf");
+  
+}
+
+
+.container {
+  font-family: theBodyFont;
+}
+
 .home-heading {
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 4rem;
   line-height: 4.5rem;
   font-weight: 700;
-  font-family: Lato,sans-serif;
+  font-family: theHeaderFont; /*Lato,sans-serif;*/
 }
 
 .image {
