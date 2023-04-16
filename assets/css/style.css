@@ -550,6 +550,7 @@ section {
   font-family: "Poppins", sans-serif;
   color: #0563bb;
   margin-bottom: 10px;
+  display: inline;
 }
 
 .resume .resume-item h5 {
@@ -559,6 +560,15 @@ section {
   display: inline-block;
   font-weight: 600;
   margin-bottom: 10px;
+}
+
+.resume .highlight {
+  font-size: 14px;
+  background: #f7f8f9;
+  padding: 5px 5px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
 .resume .resume-item ul {
